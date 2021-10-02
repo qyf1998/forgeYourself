@@ -1,2 +1,2 @@
 # git-commands
-des
+This .md file contains git commands 
