@@ -1,0 +1,23 @@
+NT File System (NTFS)
+- NTFS is the modern file system Windows likes to use by default.
+- NTFS has file and partition size limits that are so theoretically huge you won’t run up against them.
+- It only works on Windows machines. On Mac OS, only read, can't write.
+
+
+Extended File Allocation Table (exFAT)
+- designed to be a lightweight file system like FAT32
+- full readable and writeable in Windows and Mac
+- mostly used on USB drives. 
+
+
+Allocation Unit Size:
+- e.g.
+    - unit size of 1 Mb
+    - actual file size : 1 kb
+    - size of file on disk: 1 MB
+
+- small size
+    - save space, low transfer speed
+
+- big size
+    - require more space, but higher transfer speed
