@@ -1,0 +1,27 @@
+Log.txt
+
+I use this file to track what I learned on a daily bases
+
+this is a log template
+
+=======================
+MM/DD/YYYY
+
+TAKEAWAY:
+
+PRACTICES:
+
+PROJECTS:
+
+================================================================================
+
+THE LOG STARTS HERE:
+
+=======================
+10/03/2021                                            
+
+TAKEAWAY:
+
+PRACTICES:
+
+PROJECTS:
