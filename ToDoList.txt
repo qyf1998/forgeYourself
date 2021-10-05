@@ -4,4 +4,4 @@ Literally To-do List
     What's the diff, Linux vs. Unix
 - what is a snippet
 
-- what is kernel  
+- what is kernel

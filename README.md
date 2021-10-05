@@ -1,14 +1,20 @@
-# Self Learning
-I use this repository to learn what I left off in coding, as well as to get familiar with GitHub :)
+
+#   **Forge Yourself**
+
+***I use this repository to learn what I left off in coding***  
+***As well as to get familiar with GitHub & Markdown file Syntax***
+
+---
 
 
-.\PRACTICES
+## Content
+### ./Log.md  
+
+    I use this file to track what I achieved on a daily bases
+
+### ./PRACTICES
+    Coding examples
 
 
-.\TAKEAWAY
-
-
-.\log.txt
-
-
-.\ToDoList.txt
+### ./Takeawya
+    fun facts

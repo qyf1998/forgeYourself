@@ -7,7 +7,7 @@ NT File System (NTFS)
 Extended File Allocation Table (exFAT)
 - designed to be a lightweight file system like FAT32
 - full readable and writeable in Windows and Mac
-- mostly used on USB drives. 
+- mostly used on USB drives.
 
 
 Allocation Unit Size:
@@ -21,3 +21,7 @@ Allocation Unit Size:
 
 - big size
     - require more space, but higher transfer speed
+
+
+Source:
+https://www.howtogeek.com/235596/whats-the-difference-between-fat32-exfat-and-ntfs/
