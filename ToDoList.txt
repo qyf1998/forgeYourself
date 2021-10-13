@@ -1,7 +1,0 @@
-Literally To-do List
-
-- Learn Unix
-    What's the diff, Linux vs. Unix
-- what is a snippet
-
-- what is kernel
