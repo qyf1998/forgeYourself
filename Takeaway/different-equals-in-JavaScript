@@ -1,0 +1,22 @@
+What is = in JavaScript?
+ - Equal to (=) is an assignment operator
+ - For example,  a=10
+
+
+What is == in JavaScript?
+ - Double equals (==) is a comparison operator
+ - transforms the operands having the same type before comparison.
+ - Example:
+    - when you compare string with a number,
+    - JavaScript converts any string to a number.
+    - An empty string is always converts to zero.
+    - A string with no numeric value is converts to NaN (Not a Number), which returns false.
+
+
+What is === in JavaScript?
+  - returns false for the values which are not of a similar type.
+  - If we compare 2 with “2” using ===, then it will return a false value.
+
+
+Source:
+https://www.guru99.com/difference-equality-strict-operator-javascript.html
