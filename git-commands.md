@@ -50,3 +50,13 @@ These are common Git commands used in various situations:
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+
+           
+## push a local repository to git
+           1. git init 
+           2. git add . 
+           3. git commit -m "balabala"
+           4. create a repository at github.com 
+           5. git remote add origin https://github.com/c0ldlimit/vimcolors.git
+           6. git push origin master 
+           7. (optional) git push --set-upstream origin master 
